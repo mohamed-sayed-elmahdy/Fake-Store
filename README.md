@@ -47,9 +47,8 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
-```
+git clone https://github.com/mohamed-sayed-elmahdy/Fake-Store.git
+cd Fake-Store
 
 ### 2. Install Dependencies
 
